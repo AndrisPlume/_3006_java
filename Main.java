@@ -22,7 +22,7 @@ public class Main {
             }
         }
         else {
-            System.out.println("parole vai epasts nav pareizs");
+            System.out.println("parole vai epasts nav pareizs!");
         }
 
     }
